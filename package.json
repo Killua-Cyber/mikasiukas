@@ -1,0 +1,35 @@
+{
+  "name": "nezuko",
+  "version": "1.0.0",
+  "description": "A private Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Killua",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^5.4.3",
+    "canvas": "^2.6.0",
+    "canvas-browserify": "^1.1.3",
+    "canvas-constructor": "^3.1.0",
+    "discord.js": "^11.5.1",
+    "discord.js-pagination": "^1.0.2",
+    "free-google-image-search": "^1.0.0",
+    "fs": "0.0.1-security",
+    "fs-nextra": "^0.4.7",
+    "hrn": "^1.0.1",
+    "human-number": "^1.0.4",
+    "human-readable-numbers": "^0.9.5",
+    "i": "^0.3.6",
+    "millify": "^3.1.3",
+    "name-to-color": "^1.0.0",
+    "node-fetch": "^2.6.0",
+    "npm": "^6.13.2",
+    "parse-ms": "^2.1.0",
+    "pokedex.js": "^2.4.2",
+    "quick.db": "^7.0.0-b21",
+    "round-to": "^4.0.0",
+    "yargs": "^15.0.2"
+  }
+}

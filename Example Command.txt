@@ -1,0 +1,14 @@
+const discord = require("discord.js");
+const color = require("../../colours.json");
+
+module.exports.run = async(bot, message, args) => {
+
+};
+
+module.exports.help = {
+  name: "botinfo",
+  aliases: ["binfo"],
+  description: "Provides information of the bot.",
+  usage: "No Usage.",
+  //noalias: "No Aliases"
+}
